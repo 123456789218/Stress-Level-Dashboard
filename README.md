@@ -28,4 +28,4 @@ The live app is deployed and accessible here:
 https://stress-level-dashboard-taatpriya.streamlit.app/
 
 Thankyou for reading!
-Created as a student well-being analytics tool to foster healthier campus environments.
+
